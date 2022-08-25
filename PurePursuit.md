@@ -14,3 +14,14 @@ Steering angles should be propotional to the curvature of the arc (**원호의 �
 알파 = 1 / r = 2*|gy| / L**2
 ```
 
+
+
+## 적용은 어떤 방식으로 도출하나??
+
+![CamScanner 08-25-2022 02 21_1](https://user-images.githubusercontent.com/89068148/186485214-648d5f12-ef96-4051-9c7c-0c69f5e5aaf1.jpg)
+
+
+
+## 차량의 조향각 계산 하는 방법 ??
+
+![CamScanner 08-25-2022 02 28_1](https://user-images.githubusercontent.com/89068148/186485362-79357085-76a4-4126-a406-b373bde2db18.jpg)
