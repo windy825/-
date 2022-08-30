@@ -16,6 +16,8 @@
 ### ROS 연동
 
 - [기초](https://github.com/windy825/autonomous-driving/blob/master/ROS.md)
+- [연동](https://github.com/windy825/autonomous-driving/blob/master/%EC%97%B0%EB%8F%99%20%EA%B8%B0%EB%B3%B8.md)
+- [스크립트 (python) ](https://github.com/windy825/autonomous-driving/blob/master/%EC%97%B0%EB%8F%99%20%EC%9D%91%EC%9A%A9.md)
 
 <br>
 
