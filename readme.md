@@ -18,6 +18,7 @@
 - [기초](https://github.com/windy825/autonomous-driving/blob/master/ROS.md)
 - [연동](https://github.com/windy825/autonomous-driving/blob/master/%EC%97%B0%EB%8F%99%20%EA%B8%B0%EB%B3%B8.md)
 - [연동 python ](https://github.com/windy825/autonomous-driving/blob/master/%EC%97%B0%EB%8F%99%20%EC%9D%91%EC%9A%A9.md)
+- [센서 연결 및 데이터 받아오기](https://github.com/windy825/autonomous-driving/blob/master/%EC%84%BC%EC%84%9C%20%EC%97%B0%EA%B2%B0%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%9B%EC%95%84%EC%98%A4%EA%B8%B0.md)
 
 <br>
 
