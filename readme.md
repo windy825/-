@@ -5,7 +5,7 @@
 ### 기초
 
 - [이론 (인지,판단,제어)](https://github.com/windy825/autonomous-driving/blob/master/%EC%9D%B8%EC%A7%80_%ED%8C%90%EB%8B%A8_%EC%A0%9C%EC%96%B4.md)
-- [Sensors](https://github.com/windy825/autonomous-driving/blob/master/Sensors.md)
+- [Sensors 1](https://github.com/windy825/autonomous-driving/blob/master/Sensors%20%EA%B8%B0%EB%B3%B8.md)
 
 - [PurePursuit](https://github.com/windy825/autonomous-driving/blob/master/PurePursuit.md)
 
