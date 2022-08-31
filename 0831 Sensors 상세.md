@@ -62,13 +62,13 @@
 
 - 센서 감지의 최소 거리
 
-  사진###############
+  ![KakaoTalk_20220901_002426921_01](https://user-images.githubusercontent.com/89068148/187720167-dd5bb9c1-664a-41d5-8ff3-ebd4005cde7b.jpg)
 
   ---
 
 - 센서의 해상도에 따라 최대 감지 거리가 달라질 수 있다.
 
-  사진 $$$$$$$$$$$$$$$
+  ![KakaoTalk_20220901_002426921_02](https://user-images.githubusercontent.com/89068148/187720230-5a3792be-28b4-4da0-b8c4-d5fa839aecfb.jpg)
 
   수직 해상도는 채널 수 에 따라 결정된다
 
@@ -95,7 +95,7 @@
 
 - 최대 측정 거리는 측정 범위에 반비례한다.
 
-  사진############
+  ![KakaoTalk_20220901_002426921](https://user-images.githubusercontent.com/89068148/187720112-d5595bd5-6388-49c9-8f75-25ff4e89404a.jpg)
 
 <br>
 
@@ -110,7 +110,7 @@ Inertial Measurement Unit
 
 - **자이로 센서**
 
-  사진##################
+  ![KakaoTalk_20220901_002426921_03](https://user-images.githubusercontent.com/89068148/187720367-bb2deee8-732e-475b-ac4b-c91715036f35.jpg)
 
   - 적분으로 물체의 회전각, 기울기 측정 >> 오차가 누적된다
 
