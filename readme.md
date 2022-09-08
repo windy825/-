@@ -8,7 +8,7 @@
 - [Sensors 기반지식](https://github.com/windy825/autonomous-driving/blob/master/Sensors%20%EA%B8%B0%EB%B3%B8.md)
 - [Sensors 추가 : Range | Ground truth](https://github.com/windy825/autonomous-driving/blob/master/0831%20Sensors%20%EC%83%81%EC%84%B8.md)
 - [PurePursuit](https://github.com/windy825/autonomous-driving/blob/master/PurePursuit.md)
-- [PID](https://github.com/windy825/autonomous-driving/blob/master/PID.md) -
+- [PID](https://github.com/windy825/autonomous-driving/blob/master/PID.md) -check
 
 <br>
 
