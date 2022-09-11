@@ -12,6 +12,10 @@
 
 <br>
 
+### 이론 연구 및 적용
+- 물체의 자세 (Roll, Pitch, Yaw)
+
+
 ### ROS 연동
 
 - [ROS 기초](https://github.com/windy825/autonomous-driving/blob/master/0831%20ROS.md)
