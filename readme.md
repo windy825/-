@@ -22,14 +22,3 @@
 - [PurePursuit 이론](https://github.com/windy825/autonomous-driving-basics/blob/master/PurePursuit.md)
 
 - [PID 제어](https://github.com/windy825/autonomous-driving-basics/blob/master/PID.md)
-
-<br>
-
-### Computer Vision
-
-- [영상 Geometry ]()
-
-- [2차원 좌표계와 회전변환]()
-- [3차원 축 회전과 기저 변환]()
-
-<br>
