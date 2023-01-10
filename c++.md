@@ -76,3 +76,11 @@ int addTwoNumbers(int num1, int num2)
 ### 8. reserved keyword
 
 ![image-20230107224110997](https://user-images.githubusercontent.com/89068148/211153819-07eca6b6-0143-40fc-8cbc-16e2c0e8e8fd.png)
+
+
+
+### 9. main 함수의 작동
+
+operating 시스템이 가장 먼저 찾는 함수임.
+
+따라서 중복 선언시 에러, 그냥 reserved keyword처럼 여기면 된다.
